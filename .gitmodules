@@ -1,0 +1,3 @@
+[submodule "Dependencies/arcana.cpp"]
+	path = Dependencies/arcana.cpp
+	url = https://github.com/microsoft/arcana.cpp.git
